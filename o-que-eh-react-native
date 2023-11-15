@@ -1,0 +1,32 @@
+ React Native foi criado pelo Facebook, é uma biblioteca para criar interfaces Web, com base em Javascript. Conforme as demandas foram crescendo para aplicativos, a equipe do Facebook resolveu criar uma solução e implementar mais funcionalidades para construir a partir do React, o ReactNative, conseguindo desenvolver aplicativos para android e ios.
+
+
+- Preciso de um MAC para criar apps IOS/Iphone?
+
+
+
+
+- Dá pra criar um app só e rodar no IOS e ANDROID?
+
+Sim, no android o funcionamento é o padrão.
+Já no IOS, é necessário estar em um ambiente mac para realizar a publicação, existem maneiras para contornar este problema e obter solução.
+
+
+- Tem que aprender React antes de vir pra cá?
+
+Não, pois teremos um módulo específico para ensinar todo o fundamento, a base.
+
+Necessário:
+
+    * HTML/CSS
+    * JAVASCRIPT
+    * TYPESCRIPT
+
+- Qual a diferença entre NATIVO e REACT NATIVE?
+
+* Existe linguagens nativas para criar aplicativos específicos, para android é kotlin. E para ios, temos o swift.
+
+Acredito que a diferença é desempenho, menos margem para bugs e mais padronização na estrutura e código.
+
+
+Na próxima aula será explicado sobre o React Native.
