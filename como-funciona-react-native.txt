@@ -1,0 +1,13 @@
+Como Funciona o React Native?
+
+
+Android -> Kotlin
+IOS -> Swift
+
+Como vamos criar nossos aplicativos com RN?
+
+* Cria o app em React Native que utiliza React na base, como fundamento.
+* Build 
+    * React Native
+    Vai ser transformado o código, traduzindo para linguagem nativa de cada plataforma IOS e ANDROID.
+    
