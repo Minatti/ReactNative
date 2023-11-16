@@ -1,0 +1,26 @@
+- Expo CLI
+
+Expo é uma biblioteca , e é indicado para iniciantes criar seus primeiros projetos
+O Expo CLI é uma ferramenta de linha de comando que permite criar um novo projeto Expo. Para instalar o Expo CLI, você precisa ter o Node 12 LTS ou posterior em sua máquina local. Você pode instalar o Expo CLI usando o npm com o seguinte comando:
+medium.com
+
+Uma das vantagens do Expo CLI é que ele oferece uma experiência de desenvolvimento mais simples e rápida, pois ele fornece um ambiente de desenvolvimento integrado com muitos recursos prontos para uso. No entanto, uma das limitações do Expo CLI é que ele tem algumas limitações de configuração e suporte para algumas bibliotecas de terceiros venturedive.com.
+
+- RN CLI
+
+O React Native CLI gera um projeto básico do React Native para você, bem como projetos específicos da plataforma nativa iOS e Android. Ele é uma ferramenta de linha de comando que permite criar um novo projeto React Native. Para instalar o React Native CLI, você precisa ter o Node 12 LTS ou posterior em sua máquina local. Você pode instalar o React Native CLI usando o npm com o seguinte comando:
+reactnative.dev
+
+Uma das vantagens do React Native CLI é que ele permite a integração de código nativo (escrito em Java/Kotlin ou Swift/Objective-C) em seu projeto. Ele também permite que você interaja com muitas funcionalidades móveis nativas, como câmera, sistema de arquivos, Bluetooth, etc. No entanto, uma das limitações do React Native CLI é que você precisa ter o equipamento certo para compilar seu aplicativo em .apk ou .ipa. Por exemplo, para enviar seu aplicativo React Native para produção em ambas as principais plataformas móveis (IOS e Android), você precisa ter um MAC e Xcode, e também Android Studio blog.devgenius.io.
+
+
+
+
+
+Diferenças entre React Native CLI e Expo CLI
+
+A principal diferença entre React Native CLI e Expo CLI é que o React Native CLI permite mais controle sobre a configuração e a funcionalidade nativa, enquanto o Expo CLI oferece um ambiente de desenvolvimento mais simples e rápido, mas tem algumas limitações de configuração e suporte para algumas bibliotecas de terceiros.
+
+Além disso, o React Native CLI requer mais configuração e equipamento para compilar seu aplicativo para produção, enquanto o Expo CLI facilita esse processo. No entanto, isso também significa que o Expo CLI pode não ser a melhor escolha para projetos que requerem funcionalidades nativas avançadas ou personalizadas blog.devgenius.io.
+
+Em resumo, a escolha entre React Native CLI e Expo CLI depende das necessidades específicas do seu projeto. Se você precisa de mais controle sobre a configuração e a funcionalidade nativa, o React Native CLI pode ser a melhor escolha. Se você está procurando um ambiente de desenvolvimento mais simples e rápido, o Expo CLI pode ser a melhor escolha.
