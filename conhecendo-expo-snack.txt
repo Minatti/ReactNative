@@ -1,0 +1,5 @@
+https://expo.dev
+
+Conectar em sua conta
+
+Entrar no modo snack
