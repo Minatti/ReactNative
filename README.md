@@ -7,4 +7,5 @@
     * aula1: O que é ReactNative ?
     * aula2: Como funciona ReactNative ?
     * aula3: Formas de criar um projeto
-    
+    * aula4: Conhecendo o Expo Snack 
+    * aula5: Usando Expo Cli para criar o projeto
