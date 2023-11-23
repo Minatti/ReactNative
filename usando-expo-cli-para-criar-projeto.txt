@@ -9,5 +9,6 @@ para verificar tudo ok
 node -v
 
 criando projeto no expo
+
 npx create-expo-app --template
 vou criar na branch de dev 
