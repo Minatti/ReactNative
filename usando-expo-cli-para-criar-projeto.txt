@@ -1,0 +1,13 @@
+baixar node versão mais recente
+ou
+atualizar
+se for atualizar
+abra cmd
+digite: npm install -g npm stable
+npm install -g node
+para verificar tudo ok
+node -v
+
+criando projeto no expo
+npx create-expo-app --template
+vou criar na branch de dev 
